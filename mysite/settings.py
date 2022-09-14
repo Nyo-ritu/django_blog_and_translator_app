@@ -25,7 +25,7 @@ TEMPLATES_DIR = os.path.join(BASE_DIR, 'templates')
 # See https://docs.djangoproject.com/en/4.1/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = "django-insecure-&yw8yngzc3x%i66-r4!d8=k1qw%@@rufnb)_8d17qedie3u2yk"
+SECRET_KEY = "xxx"
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
@@ -90,8 +90,8 @@ DATABASES = {
         "NAME":"dbjsqhmo41mvnb",
         "HOST":"ec2-54-91-223-99.compute-1.amazonaws.com",
         "PORT":5432,
-        "USER":"snymdmbxvkrnzn",
-        "PASSWORD":"c964903ba4b73fdfbd53a1ba9c5c7be568b9b93bb76f53fafced5bca00288895"
+        "USER":"sss",
+        "PASSWORD":"sss"
     }
 }
 
